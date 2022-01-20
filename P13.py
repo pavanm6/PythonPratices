@@ -1,1 +1,0 @@
-#print Alternate prime number
